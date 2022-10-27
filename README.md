@@ -1,4 +1,5 @@
-# Enumerable_Ruby> This is a project we worked on the the enumerables methods all? any? and #filter.
+# Enumerable_Ruby
+This is a project we worked on the the enumerables methods all? any? and #filter.
 
 ## Built With
 
